@@ -1,5 +1,7 @@
 # paths
 
+Another way to alias paths in a terminal. I don't know, meant for Windows only.
+
 ```shell
 main usage: paths <alias> | cd
 ```
